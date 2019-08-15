@@ -10,10 +10,10 @@
 
 
 
-* 带有代码生成和查询API的分布式框架
+* 带有权限控制的SaaS后台管理系统
 ## [Silicon](https://0nebean.github.io/Silicon/) 
 
-* 带有权限控制的SaaS后台管理系统
+* 带有代码生成和查询API的分布式框架
 ## [Sodium](https://0nebean.github.io/Sodium/) 
 
 * 带有权限控制和代码生成的TMA架构后台管理系统
